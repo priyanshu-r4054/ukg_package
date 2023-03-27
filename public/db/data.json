@@ -1,0 +1,253 @@
+{
+  "grade": {
+    "id": null,
+    "name": "Standard VII",
+    "numeric_value": null,
+    "cohorts": null
+  },
+  "board": {
+    "id": null,
+    "name": "CBSE",
+    "cohorts": null
+  },
+  "subject": {
+    "id": null,
+    "name": "Mathematics",
+    "cohorts": null
+  },
+  "chapter": {
+    "id": null,
+    "chapter_id": 22461,
+    "name": "Rational Numbers",
+    "concept_relationships": null
+  },
+  "concepts": [
+    {
+      "concept_id": 8622,
+      "chapter_relationships": [],
+      "concept_name": "Fractions",
+      "concept_description": "numerator and denominator, fractions",
+      "predecessors": [],
+      "successors": [],
+      "root": [],
+      "cohort": []
+    },
+    {
+      "concept_id": 2448,
+      "chapter_relationships": [],
+      "concept_name": "Numbers",
+      "concept_description": "Memorizing already taught numbers, i.e. integers, whole numbers, natural numbers",
+      "predecessors": [],
+      "successors": [],
+      "root": [],
+      "cohort": []
+    },
+    {
+      "concept_id": 2449,
+      "chapter_relationships": [],
+      "concept_name": "Introduction: Rational Numbers",
+      "concept_description": "What are rational numbers, need for rational numbers",
+      "predecessors": null,
+      "successors": [
+        {
+          "concept_id": 2450,
+          "chapter_relationships": [],
+          "concept_name": "Equivalent Rational Numbers",
+          "concept_description": "Showing that a rational number can be written with different numerators and denominators called as Equivalent rational numbers",
+          "predecessors": null,
+          "successors": null,
+          "root": null,
+          "cohort": null
+        },
+        {
+          "concept_id": 2451,
+          "chapter_relationships": [],
+          "concept_name": "Negatives and Reciprocals",
+          "concept_description": "Based on positive and negative sign of numerator and denominator showing positive and negative rational numbers, Taking reciprocal and resultant rational number",
+          "predecessors": null,
+          "successors": null,
+          "root": null,
+          "cohort": null
+        },
+        {
+          "concept_id": 2452,
+          "chapter_relationships": [],
+          "concept_name": "Rational Numbers on a Number Line",
+          "concept_description": "Representation of rational numbers on number line",
+          "predecessors": null,
+          "successors": null,
+          "root": null,
+          "cohort": null
+        },
+        {
+          "concept_id": 2453,
+          "chapter_relationships": [],
+          "concept_name": "Rational Numbers in Standard Form",
+          "concept_description": "What is standard form of any rational number, How to convert any rational number in its standard form",
+          "predecessors": null,
+          "successors": null,
+          "root": null,
+          "cohort": null
+        },
+        {
+          "concept_id": 2454,
+          "chapter_relationships": [],
+          "concept_name": "Comparison of Rational Numbers",
+          "concept_description": "Comparing two positive, two negative rational numbers, Comparison of a negative and a positive rational number with the help of number line",
+          "predecessors": null,
+          "successors": null,
+          "root": null,
+          "cohort": null
+        },
+        {
+          "concept_id": 2455,
+          "chapter_relationships": [],
+          "concept_name": "Rational Numbers between Two Rational Numbers",
+          "concept_description": "unlimited number of rational numbers between any two rational numbers. Introducing rational numbers between integers and between rational numbers",
+          "predecessors": null,
+          "successors": null,
+          "root": null,
+          "cohort": null
+        },
+        {
+          "concept_id": 2456,
+          "chapter_relationships": [],
+          "concept_name": "Addition of Rational Numbers",
+          "concept_description": "Addition of rational numbers, while adding rational numbers with same denominators, we add the numerators keeping the denominators same, Addition when denominators are different",
+          "predecessors": null,
+          "successors": [
+            {
+              "concept_id": 2458,
+              "chapter_relationships": [],
+              "concept_name": "Additive Inverse of a Rational Number",
+              "concept_description": "What is additive inverse, how to find additive inverse of any rational number",
+              "predecessors": null,
+              "successors": [
+                {
+                  "concept_id": 2459,
+                  "chapter_relationships": [],
+                  "concept_name": "Subtraction of Rational Numbers",
+                  "concept_description": "Subtracting two rational numbers, we add the additive inverse of the rational number that is being subtracted, to the other rational number, Subtraction when denominators are same and different",
+                  "predecessors": null,
+                  "successors": null,
+                  "root": null,
+                  "cohort": null
+                }
+              ],
+              "root": null,
+              "cohort": null
+            }
+          ],
+          "root": null,
+          "cohort": null
+        },
+        {
+          "concept_id": 2460,
+          "chapter_relationships": [],
+          "concept_name": "Multiplication and Division of Rational Numbers",
+          "concept_description": "Steps to do multiplication and division of rational numbers. Showing few examples with the help of number line",
+          "predecessors": null,
+          "successors": null,
+          "root": null,
+          "cohort": null
+        },
+        {
+          "concept_id": 2461,
+          "chapter_relationships": [],
+          "concept_name": "Properties of Rational Numbers",
+          "concept_description": "Closure, associative, commutative, distributive etc. properties of rational numbers, Proof with examples",
+          "predecessors": null,
+          "successors": [
+            {
+              "concept_id": 4181,
+              "chapter_relationships": [],
+              "concept_name": "Closure property of rational numbers",
+              "concept_description": "rational numbers are closed under addition and subtraction. That is, for any two rational numbers a and b, a + b is also a rational number and a – b is also a rational number; rational numbers are closed under multiplication.",
+              "predecessors": null,
+              "successors": null,
+              "root": null,
+              "cohort": null
+            },
+            {
+              "concept_id": 4182,
+              "chapter_relationships": [],
+              "concept_name": "Commutative property of rational numbers",
+              "concept_description": "Commutative property of rational numbers and integers.",
+              "predecessors": null,
+              "successors": null,
+              "root": null,
+              "cohort": null
+            },
+            {
+              "concept_id": 4183,
+              "chapter_relationships": [],
+              "concept_name": "Associative property of rational numbers",
+              "concept_description": "Associative property of integers and rational numbers",
+              "predecessors": null,
+              "successors": null,
+              "root": null,
+              "cohort": null
+            },
+            {
+              "concept_id": 4184,
+              "chapter_relationships": [],
+              "concept_name": "Distributive property of rational numbers",
+              "concept_description": "For all rational numbers a, b and c, a(b + c) = ab + ac and a(b – c) = ab – ac",
+              "predecessors": null,
+              "successors": null,
+              "root": null,
+              "cohort": null
+            }
+          ],
+          "root": null,
+          "cohort": null
+        }
+      ],
+      "root": null,
+      "cohort": null
+    },
+    {
+      "concept_id": 2457,
+      "chapter_relationships": [],
+      "concept_name": "LCM",
+      "concept_description": "How to take LCM, and how important it is while adding two rational numbers",
+      "predecessors": null,
+      "successors": [
+        {
+          "concept_id": 2456,
+          "chapter_relationships": [],
+          "concept_name": "Addition of Rational Numbers",
+          "concept_description": "Addition of rational numbers, while adding rational numbers with same denominators, we add the numerators keeping the denominators same, Addition when denominators are different",
+          "predecessors": null,
+          "successors": [
+            {
+              "concept_id": 2458,
+              "chapter_relationships": [],
+              "concept_name": "Additive Inverse of a Rational Number",
+              "concept_description": "What is additive inverse, how to find additive inverse of any rational number",
+              "predecessors": null,
+              "successors": [
+                {
+                  "concept_id": 2459,
+                  "chapter_relationships": [],
+                  "concept_name": "Subtraction of Rational Numbers",
+                  "concept_description": "Subtracting two rational numbers, we add the additive inverse of the rational number that is being subtracted, to the other rational number, Subtraction when denominators are same and different",
+                  "predecessors": null,
+                  "successors": null,
+                  "root": null,
+                  "cohort": null
+                }
+              ],
+              "root": null,
+              "cohort": null
+            }
+          ],
+          "root": null,
+          "cohort": null
+        }
+      ],
+      "root": null,
+      "cohort": null
+    }
+  ]
+}
